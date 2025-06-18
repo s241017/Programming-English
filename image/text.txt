@@ -1,1 +1,1 @@
-caluculateAreaが定義されていません
+
